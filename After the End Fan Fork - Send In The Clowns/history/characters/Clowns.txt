@@ -1,0 +1,18 @@
+2888888={#the Joker
+	name="Arthur"
+	dynasty=3000001 #Phoenix
+	culture=gothamite
+	religion=carnivalist
+	martial=7
+	diplomacy=8
+	stewardship=3
+	intrigue=9
+	learning=4
+	trait=lunatic
+	trait=intricate_webweaver
+	trait=kind
+	trait=craven
+	trait=cynical
+	give_nickname=nick_the_jokester
+	2621.10.28={birth=yes}
+}
