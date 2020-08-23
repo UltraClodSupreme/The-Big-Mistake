@@ -2307,8 +2307,6 @@ oldworld = {
 		evil_god_names = {
 			GOD_PENNYWISE
 		}
-		can_call_crusade = no #overlooked this somehow
-		join_crusade_if_bordering_hostile = yes
 		scripture_name = THE_PROGRAM
 		priest_title = RINGMASTER
 		priests_can_marry = yes
@@ -2332,7 +2330,7 @@ oldworld = {
 		
 		intermarry = consumerist
 		intermarry = monetarist
-		intermarry_atomicist
+		intermarry = atomicist
 		intermarry = aphite
 		intermarry = rust_cultist
 		intermarry = chrome_cultist
