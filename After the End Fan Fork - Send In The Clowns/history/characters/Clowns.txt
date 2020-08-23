@@ -13,6 +13,7 @@
 	trait=kind
 	trait=craven
 	trait=cynical
+	trait=chaste
 	give_nickname=nick_the_jokester
 	2621.10.28={birth=yes}
 }
