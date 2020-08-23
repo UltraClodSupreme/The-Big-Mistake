@@ -816,7 +816,7 @@ d_carnivalist = { #the Big Top
 	
 	title = "GREATEST_SHOWMAN"
 	title_female = "GREATEST_SHOWMAN"
-	foa = "WARHEAD_FOA"
+	foa = "GREATEST_SHOWMAN_FOA"
 	
 	
 	caliphate = yes
