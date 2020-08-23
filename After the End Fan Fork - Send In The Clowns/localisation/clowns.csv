@@ -1,0 +1,28 @@
+###ÄNSI
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+nick_the_jokester;the Jokester;;;;;;;;;;;;x
+carnivalist;Carnivalist;;;;;;;;;;;;x
+carnivalist_desc;Carnivalism is an old religion which traces roots back before the End. It is said that they're a spiritual group seeking enlightenment through various practices which forces the body in an unnatural state. They are known to wear face paint to show devotion to the Allringmaster.;;;;;;;;;;;;x
+GOD_ALLRINGMASTER;The Allringmaster;;;;;;;;;;;;x
+GOD_RONALD;Ronald;;;;;;;;;;;;x
+GOD_MARCEL;Marcel;;;;;;;;;;;;x
+GOD_JOKER;Joker;;;;;;;;;;;;x
+GOD_PENNYWISE;Pennywise;;;;;;;;;;;;x
+GOD_HARLEQUIN;The Harlequinn;;;;;;;;;;;;x
+GOD_AUGUSTE;Auguste;;;;;;;;;;;;x
+RINGMASTER;Ringmaster;;;;;;;;;;;;x
+THE_PROGRAM;the Program;;;;;;;;;;;;x
+temple_baron_carnivalist;Ringmaster;;;;;;;;;;;;;x
+temple_barony_carnivalist;Circus;;;;;;;;;;;;;x
+temple_barony_of_carnivalist;Circus of;;;;;;;;;;;;;x
+HUMOR;Humour;;;;;;;;;;;;;x
+STAT_PIETY_HUMOR;Humour;;;;;;;;;;;;;x
+STAT_PIETY_MENU_HUMOR;Humour;;;;;;;;;;;;;x
+MONTHLY_PIETY_HUMOR;Monthly Humour Increase;;;;;;;;;;;;;x
+STAT_PIETY_DESC_HUMOR;Humour is respected by the clergy and especially the head of your Religion. It can be spent to petition the head of your Religion. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;;;x
+GREATEST_SHOWMAN;Greatest Showman;;;;;;;;;;;;;x
+CLOWNMASTER;Clownmaster;;;;;;;;;;;;;x
+d_carnivalist;Big Top;;;;;;;;;;;;;x
+d_carnivalist_adj;Big;;;;;;;;;;;;;x
+d_ha_ha_sins;Ha-Ha-sins;;;;;;;;;;;;;x
+d_ha_ha_sins_adj;Hilarious;;;;;;;;;;;;;x
