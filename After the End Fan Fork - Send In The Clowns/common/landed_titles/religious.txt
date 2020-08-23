@@ -811,7 +811,7 @@ d_carnivalist = { #the Big Top
 	color = { 191 255 51 }
 	color2= { 225 255 255 }
 	
-	capital = 423 #Los Alamos
+	capital = 3 #Manhattan
 	creation_requires_capital = no
 	
 	title = "GREATEST_SHOWMAN"

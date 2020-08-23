@@ -514,7 +514,7 @@ d_ha_ha_sins = {
 
 	color={ 255 255 255 }
 	
-	capital = 423 # Los Alamos
+	capital = 3 # Manhattan
 
 	title = "CLOWNMASTER"
 	foa = "GRANDMASTER_FOA"
@@ -527,7 +527,7 @@ d_ha_ha_sins = {
 	# Parent Religion 
 	religion = carnivalist
 	
-	culture = arixan
+	culture = gothamite
 	
 	# Cannot be held as a secondary title
 	primary = yes
