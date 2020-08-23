@@ -21,6 +21,7 @@ STAT_PIETY_MENU_HUMOR;Humour;;;;;;;;;;;;;x
 MONTHLY_PIETY_HUMOR;Monthly Humour Increase;;;;;;;;;;;;;x
 STAT_PIETY_DESC_HUMOR;Humour is respected by the clergy and especially the head of your Religion. It can be spent to petition the head of your Religion. Like Prestige, it is added to your score on the death of a ruler.;;;;;;;;;;;;;x
 GREATEST_SHOWMAN;Greatest Showman;;;;;;;;;;;;;x
+GREATEST_SHOWMAN_FOA;Your Hilarity;;;;;;;;;;;;;x
 CLOWNMASTER;Clownmaster;;;;;;;;;;;;;x
 d_carnivalist;Big Top;;;;;;;;;;;;;x
 d_carnivalist_adj;Big;;;;;;;;;;;;;x
