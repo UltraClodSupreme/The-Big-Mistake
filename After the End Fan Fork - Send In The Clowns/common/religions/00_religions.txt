@@ -2289,11 +2289,11 @@ oldworld = {
 		Justice Columbia Benefactia Emancipata Eleutheria Industria Interdicta Libertas Liberalitas Majority Nullabona Nongrata Precedenta Respublia Subpoena Vindicta Stahlhilda
 	}
 
-	carnivalist = { #
+	carnivalist = { #Clown religion
 		graphical_culture = hellenicgfx
 
-		icon = 6
-		heresy_icon = 7
+		icon = 51
+		heresy_icon = 51
 		
 		color = { 0.75 1.0 1.0 }
 		
