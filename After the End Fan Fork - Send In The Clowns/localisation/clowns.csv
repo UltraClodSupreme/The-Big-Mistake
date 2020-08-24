@@ -32,3 +32,17 @@ d_carnivalist;Big Top;;;;;;;;;;;;;x
 d_carnivalist_adj;Big;;;;;;;;;;;;;x
 d_ha_ha_sins;Ha-Ha-sins;;;;;;;;;;;;;x
 d_ha_ha_sins_adj;Hilarious;;;;;;;;;;;;;x
+nomadic_emperor_carnivalist;Troupe Master;;;;;;;;;;;;;x
+nomadic_emperor_female_carnivalist;Troupe Master;;;;;;;;;;;;;x
+nomadic_empire_carnivalist;Troupe;;;;;;;;;;;;;x
+nomadic_empire_of_carnivalist;Troupe of;;;;;;;;;;;;;x
+nomadic_king_carnivalist;Practitioner;;;;;;;;;;;;;x
+nomadic_king_female_carnivalist;Practitioner;;;;;;;;;;;;;x
+nomadic_kingdom_carnivalist;Sideshow;;;;;;;;;;;;;x
+nomadic_king_of_carnivalist;Sideshow of;;;;;;;;;;;;;x
+funnyman;Happy Clown;;;;;;;;;;;;;x
+funnyman_desc;This character is a happy clown, believing that they must spread Carnivalism to ensure its survival.;;;;;;;;;;;;;x
+sadman;Sad Clown;;;;;;;;;;;;;x
+sadman_desc;This character is a sad clown, believing that they must consolidate and build up their realm to secure the position of Carnivalism.;;;;;;;;;;;;;x
+choose_carnivalist_branch;Choose what type of Clown you are.;;;;;;;;;;;;;x
+choose_carnivalist_branch_desc;It's finally time for you to decide what kind of Clown do you want to be.;;;;;;;;;;;;;x
