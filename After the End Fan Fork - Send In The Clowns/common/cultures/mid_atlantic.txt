@@ -172,55 +172,41 @@ mid_atlantic = {
 		
 
 		male_names = {
-			Adriaen_Adrian Abrahan_Abraham Andrew_Andrew Aaron_Aaron Ardolph Achilles Agapett Alberht_Albert Alessander_Alexander Arnold_Arnold Aurel_Aurelius
-			Bartolomeus_Bartholomew Basil Benicio Beppe_Joseph Berthold Bertrand Brennan Bruce Bruno Boniface
-			Caesar Christopher Connor Cornelis_Cornelius Corvo Caleb Carles_Charles Cadwallader Casimir Carmine Constantin_Constantine Corydon
-			David_David Dewitt Daman Daniel_Daniel Dante Darius Dorian
-			Ezra Ebenezer_Ebenezer Edward_Edward Eastman Elmo Emeric Erasmis_Erasmus Ercole Eusebe_Eusebius Eustace Eugeny_Eugene Ezio
-			Faris Francelin_Franklin Florell Frederic_Frederick Fernand_Ferdinand Ferrutt Flavis_Flavius Francis_Francis
-			Giovannes_John Gerard_Gerard Giorge_George German_Germanus Gennard Gianluke_John-Luke Gianpaul_John-Paul Gioacchim_Joachim Girald_Gerald Grigory_Gregory Guy
-			Hari Hayan Henreyk_Henry Hector_Hector Horatis_Horace Humbert
-			Idrees_Idris Ignatius Igor_Ingvar Isaac_Isaac Isaiah Isidorr_Isidore
-			Jason Jonas_Jonah Jacobbe_Jacob Joaquin_Joachim Julius_Julius Jaime_James
-			Kiran Koch
-			Lambert Lewis_Louis Levi Ludovick_Louis Leander Leonard Leone_Leon Loren_Lawrence Lucis_Lucius
-			Martin_Martin Marius Manohar Meyer Michael_Michael Marcus_Mark Mattheus_Matthew Mohan
-			Nicholas_Nicholas Narciss Nevis Nestor Nunzis
-			Oldstead Oswald Ottavis_Octavius Orion Ottone_Otto
-			Param Pieter_Peter Paulus_Paul Peregrin_Peregrine Patricis_Patrick Philippe_Philip
-			Rama Rudy_Rudolph Richard_Richard Robertus_Robert Rohan Ryan
-			Sameer_Samir Samuel_Samuel Sasha Stephen_Stephen Seth Stratis Salvator_Salvador Sylvester Silvis Sedgewick
-			Theo_Theodore Thom_Thomas Thaddeus Tacit Tullis
-			Ulderic
-			Varian Vasily Venceslaus_Wenceslaus Vinay Vincent_Vincent Victor_Victor Vladimir
-			Wualter_Walter Wuillem_William Whitehead Wagner
-			York Yohan_John Yuri_George
-			Zachari_Zachary
+			Abbott Angus
+			Barry Bingo Bozo Bongo Bonzy
+			Charlie Chuckles Costello
+			David Daniel Doink Dink 
+			Emmett Ernie
+			Feste 
+			Goofy Grock
+			Homer
+			Jimbo Joey John Jumbo
+			Kranky Krusty
+			Patches Pogo Puddles
+			Roland
+			Shaggy Spike Stitches
+			Tatters Tramp Tumble
+			Waldo
+			Zoltar Zumbo
+
 		}
-		#add in some West Side Story names for shits and grins
 		female_names = {
-			Ada Albertine Alda Alita Amalia_Amelia Amina Anna_Anne Annalise Annetta Anita Anastacey_Anastasia Alexia Ariane Arya
-			Barbara_Barbara Berenice Bernardina Bridget Brunella
-			Carmen Catharyna_Catherine Chelsea Caro Clarice Chelo_Consuela Christina_Christina Carlotte_Charlotte Cynthia
-			Daisy Dolores
-			Esmerald_Esmerelda Eleanor_Eleanor Eunice Estella Emma_Emma
-			Fay Francisca_Frances Fiorina Fioretta
-			Gemma Gita Graziella
-			Hermanna Henrietta_Henrietta Helen Hana_Hannah
-			Ines_Agnes Irene
-			Jordan Juliana
-			Karam Keiran
-			Lana Lauren Lila Lola
-			Martha Maria_Mary Maya Minnie_Wilhelmina Margarita_Margaret Maxima Magdalene Mercedes Miran Misha Mona Myrtle
-			Nadia Nari Niki Nina
-			Paris Pauline_Pauline Pamela
-			Ramona Rebecca Rosalia Rita Rin Regina Renata Rhoda
-			Sasha Salome Sanya Stephanie_Stephanie Sophia Sori
-			Tania Tara Teresita_Theresa Thea
-			Vera Victoria Velma
-			Willemina_Wilhelmina
-			Yolanda
-			Zelda Zelina Zenobia
+			Bim Bam Buttercup
+			Calamity Casey Chacha Clarabell Cupcake
+			Daisy Doodles Duckie Dusty
+			Esmerelda
+			Flower Fortuna
+			Giggles
+			Harley Happy	
+			Jane Joy
+			Koko Krystal
+			Lala Lucky Lucy Lulu
+			Mila Molly
+			Nichola
+			Popsy Puddin Pumpkin
+			Smereldina Sugar Sunny Sunshine
+			Topsy Trixy Twinkles
+			Vicki
 		}
 
 		from_dynasty_prefix = "van "
