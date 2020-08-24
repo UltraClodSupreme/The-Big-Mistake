@@ -1,0 +1,42 @@
+funnyman = {
+	intrigue = 1
+	diplomacy = 1
+	
+	
+	religious = yes # Lost immediately on religion change
+	
+	potential = { #this ensures that only imamites get it
+		religion = carnivalist
+	}
+	
+	opposites =  {
+		sadman
+	}
+	
+	opposite_opinion = -10
+	same_opinion = 10
+	
+	customizer = no
+	random = no
+}
+
+sadman = {
+	stewardship = 1
+	learning = 1
+	
+	religious = yes # Lost immediately on religion change
+	
+	potential = {
+		religion = carnivalist
+	}
+	
+	opposites =  {
+		funnyman
+	}
+	
+	opposite_opinion = -10
+	same_opinion = 10
+	
+	customizer = no
+	random = no
+}

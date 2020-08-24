@@ -1,0 +1,31 @@
+decisions = {	
+	
+	choose_carnivalist_branch = {
+		ai = no
+		
+		potential = {
+			religion = carnivalist
+			is_playable = yes
+			NOT = {
+				has_alternate_start_parameter = { key = religion_names value = random }
+			}
+			NOT = { has_character_flag = chosecarnivalistbranch }
+		}
+		
+		allow = {
+			religion = carnivalist
+			is_playable = yes
+			piety = 50
+		}
+		
+		effect = {
+			hidden_tooltip = {
+				narrative_event = { id = CLW.300 }				
+			}
+			custom_tooltip = { text = TXT_choose_carnivalist_branch }
+			set_character_flag = chosecarnivalistbranch
+		}
+		
+	}
+
+}
