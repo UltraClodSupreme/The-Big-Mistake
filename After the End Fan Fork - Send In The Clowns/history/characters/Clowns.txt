@@ -1,7 +1,7 @@
 2888888={#the Joker
 	name="Arthur"
 	dynasty=3000001 #Phoenix
-	culture=gothamite
+	culture=carnie
 	religion=carnivalist
 	martial=7
 	diplomacy=8
@@ -14,6 +14,7 @@
 	trait=craven
 	trait=cynical
 	trait=chaste
+	trait=sadman
 	give_nickname=nick_the_jokester
 	2641.10.28={birth=yes}
 }
