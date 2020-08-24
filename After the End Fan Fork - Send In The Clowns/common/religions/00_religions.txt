@@ -2305,7 +2305,7 @@ oldworld = {
 			GOD_RONALD GOD_MARCEL GOD_JOKER GOD_HARLEQUIN GOD_AUGUSTE
 		}
 		evil_god_names = {
-			GOD_PENNYWISE
+			GOD_PENNYWISE GOD_GACY GOD_HUMORLESS
 		}
 		scripture_name = THE_PROGRAM
 		priest_title = RINGMASTER
