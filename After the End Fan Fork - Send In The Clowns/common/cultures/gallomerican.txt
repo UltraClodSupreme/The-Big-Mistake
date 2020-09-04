@@ -79,55 +79,46 @@ gallomerican = {
 		color = { 0.4 0.5 0.7 }
 
 		male_names = {
-			Adam_Adam Adélard Adolphe_Adolf Adrien_Adrian Aimé Alain_Alan Albert_Albert Alexandre_Alexander Alfred Alphonse_Alphonse Amable Amaury_Amalric Ambrose_Ambrose André_Andrew Andronic_Andronicus Aristide Armand_Herman Athanase_Athanasius Augustin_Augustine Aurèle_Aurelius Azaire_Azariah
-			Baptiste_Baptist Barthélémy_Bartholomew Basile_Basil Baudouin_Baldwin Bernard Blaise Bohémond_Bohemond Bonaventure 
-			Calixte_Callistus Camille_Camille Camillien Cartier Cécil_Cecil Célestin_Celestine Césaire_Caesar Charles_Charles Chomedey Christophe_Christopher Claude_Claudius Claude-Henri Cléophas Cyrille_Cyril 
-			Damase Daniel_Daniel David_David Denis_Dionysus Dieudonné Dollard Dosithé Dowina-Évariste Dustin 
-			Édouard_Edward Elphège Elzéar_Lazarus Émery_Amalric Éphrem_Ephraim Éric_Eric Esioff Étienne_Stephen Étienne-Paschal Eustache_Eustace 
-			Fabien_Fabian Félix_Felix Ferréol Foulques_Fulk François_Francis Frédéric_Frederick
-			Gabriel_Gabriel Gaétan_Cajetan Gaspard_Casper Gaston Gautier_Walter Gédéon_Gideon Geoffroy_Geoffrey Georges_George Georges-Étienne Georges-Henri_George-Henry Georges-Marie_George-Mary Ghislain Gilles_Giles Gratien_Gratian Guillaume_William Gustave_Gustav Guy
-			Hector_Hector Hector-Louis Henri_Henry Henri-Edgar Hilaire_Hilarius Hippolyte Honoré_Honorius Horace Hormisdas Hubert Hughes_Hugh Hyacinthe_Hyacinth
-			Isidore Ignace_Ignatius Israël_Israel
-			Jacques_James Jacques-Désiré Jean_John Jean-Baptiste_John-Baptist Jean-Docile Jean-François_John-Francis Jean-Georges_John-George Jean-Jacques_John-James Jean-Louis_John-Louis Jean-Luc_John-Luke Jean-Marie_John-Mary Jean-Paul_John-Paul Jean-Philippe Jean-René Jeannot Jérome_Jerome Joseph_Joseph Joseph-Octave Josselin_Jocelyn Josue_Joshua Julien_Julian Justin Juvenal
-			Laurent_Lawrence Léon_Leon Léotale-Guichart Léotale-Humbert Lionel Lotaire_Lothar Louis_Louis Louis-Alexandre Louis-Alphonse Louis-Amable Louis-Arsène Louis-Edmond Louis-Étienne Louis-François Louis-Hippolyte Louis-Joseph Louis-Philippe Louis-Siméon Luc_Luke Lucien_Lucian Ludger 
-			Marc_Mark Marc-Olivier Marcel_Marcellus Mario_Marius Martial Mathieu_Matthew Maurice Maximilien_Maximilian Médéric Michel_Michael Michel-Louis Michel-Sidrac Moncef Moustaphe_Mustafa 
-			Napoléon_Napoleon Nérée Normand_Norman 
-			Octave_Octavius Odon_Otto Olaüs Olivier_Oliver Onésime_Onesimus Onfroy Ovide Ozias
-			Pacifique Pantaléon Pascal Paul_Paul Paul-Antoine Paul-Émile Paul-Timothée Payson Philémon_Philemon Philippe_Philip Philippe-August Pierre_Peter Pierre-Évariste Pierre-Marie_Peter-Mary Praxède
-			Raymond_Raymond Réal Régis_Regis Réjean Renaud_Reynard René_Rene Robert_Robert Rodolphe_Rudolph Roger_Roger Rohard Roland_Roland Roméo_Romeo Roupen
-			Samuel_Samuel Sarto Sébastien_Sebastian Serge_Sergius Séverin_Severin Simon Stanislas_Stanislaus Stéphane_Stephen Sulpice 
-			Tancrède_Tancred Télesphore_Telesphorus Théogène_Theogenes Théophile_Theophilus Thomas Thomas-Étienne
-			Uldéric Urbain_Urban 
-			Valpy Victor-Lévy Victor-Marie Vincent_Vincent
-			Wenceslas_Wenceslaus Wilfrid_Wilfred
-			Xavier
-			Yann_Yannick Yves 
-			Zachaire_Zachary Zénon_Zeno Zéphyrin_Zephyrinus Zotique 
+			Abbott Angus
+			Barry Bingo Bozo Bongo Bonzy "Baller Boy" "Billy Boy" Bimban
+			Charlie Chuckles Costello
+			David Daniel Doink Dink 
+			Emmett Ernie
+			Feste 
+			Goofy Grock
+			Homer Harlen
+			Jimbo Joey John Jumbo
+			Kranky Krusty
+			Patches Pogo Puddles
+			Marquis
+			Orange
+			Roland
+			Shaggy Spike Stitches
+			Tatters Tramp Tumble
+			Waldo
+			Yeetam
+			Zoltar Zumbo
 		}
 		
 		female_names = {
-			Adèle_Adele Adéline Adrianne_Adriana Agnès_Agnes Agrippine Alexandra Alexandrine Alix_Alice Anabelle Andréanne Andrée_Andrea Anique Anne_Anna Anne-Marie Antoinette Apolline_Apollonia Arianne Aude Aurore_Aurora Axelle
-			Béatrice_Beatrice Bernadette Berth Brigitte Blanche
-			Carole_Caroline Caroline Catherine_Catherine Céline_Celine Charlotte_Charlotte Chantal Charmaine Chloé_Chloe Christianne Christine_Christina Claire Claudine Concordie Constance 
-			Danielle Denise Diane Dominique
-			Élaine_Elaine Éléonore_Eleanor Élisabeth_Elizabeth Élise Émilie_Emily Ève_Eve Évelyne_Evelyn
-			Fatima Félicia Flore Florence Francine Françoise Frédérique_Frederica 
-			Gabrielle_Gabriele Geneviève_Genevieve Gertrude Ginette Gisèle_Giselle Guylaine 
-			Hélène_Helen Henriette_Henrietta
-			Irène_Irene Isabelle Isadora 
-			Jacinthe Jacqueline Jeanette Jeanne_Joan Jeannine Jocelyne Joelle Josée Joséphine Josianne Juanita Judith Julie_Julia Justine
-			Laura Laurence Léa_Leah Léopoldine Lise_Lisa Lorraine Louise Lucienne Lucine 
-			Macha Manon Marcelle Marcelline Marie_Mary Marie-Catherine Marie-Claire Marie-Eve Marie-Hélène Marie-Josée Marilène Marguerite Martine Maxine Maryse Mathilde Maude Mélanie_Melanie Mélissa Michèle Micheline Milaine Mona Monique_Monica Mylène
-			Nadine Nancy Nathalie_Natalie Nicole Noëlle Noémie
-			Odette Olympe Orélie
-			Pauline Pénélope_Penelope Pierrette 
-			Rachelle Régine_Regina Robertine Rosalie
-			Safia Sarah_Sarah Sharon Sibylle_Sibyl Simone Sonia Sofie_Sophia Stéphanie_Stephanie Suzanne_Susan
-			Théodora_Theodora Thérèse_Theresa
-			Valérie_Valeria Vanessa Véronique_Veronica Virginie_Virginia Vivian_Vivien 
-			Ursule_Ursula
-			Yasmeen_Jasmine Yolande_Yolanda Yvon_Yvonne Yvette 
-			Zoé_Zoe
+			Apple
+			Bim Bam Buttercup "Billy Girl" Ballerina
+			Calamity Casey Chacha Clarabell Cupcake
+			Daisy Doodles Duckie Dusty
+			Esmerelda
+			Flower Fortuna Francisca
+			Giggles
+			Harley Harleen Happy	
+			Jane Joy
+			Koko Krystal
+			Lala Lucky Lucy Lulu
+			Mila Molly Maquisha
+			Nichola
+			Popsy Puddin Pumpkin
+			Smereldina Sugar Sunny Sunshine
+			Topsy Trixy Twinkles Tenny
+			Vicki
+			Yeetica
 		}
 
 		from_dynasty_prefix = "de "
