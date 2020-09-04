@@ -18,7 +18,7 @@
 	give_nickname=nick_the_jokester
 	2641.10.28={birth=yes}
 	2646.10.28={add_spouse=2888889}
-	2646.10.28={add_lover=2888889}
+	2665.10.28={add_lover=2888889}
 }
 
 2888889={#Harley Quinn
@@ -39,6 +39,7 @@
 	trait=lustful
 	trait=fair
 	trait=funnyman
-	trait_arbitrary
+	trait=arbitrary
 	2645.7.2={birth=yes}
+	2665.10.28={add_lover=2888888}
 }
