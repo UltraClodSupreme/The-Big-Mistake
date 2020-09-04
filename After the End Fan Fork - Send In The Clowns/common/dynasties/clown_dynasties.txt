@@ -1,35 +1,59 @@
-3000001 = { name="Phoenix" culture=carnie religion=carnivalist } 
-3000002 = { name="Arcobate" culture=carnie religion=carnivalist } 
-3000003 = { name="Amok" culture=carnie religion=carnivalist } 
-3000004 = { name="Barnes" culture=carnie religion=carnivalist } 
-3000005 = { name="Barker" culture=carnie religion=carnivalist } 
-3000006 = { name="Batty" culture=carnie religion=carnivalist } 
-3000007 = { name="Bindlestiff" culture=carnie religion=carnivalist } 
-3000008 = { name="Breschard" culture=carnie religion=carnivalist } 
-3000009 = { name="Chipperfield" culture=carnie religion=carnivalist } 
-3000010 = { name="Elephante" culture=carnie religion=carnivalist } 
-3000011 = { name="Fora" culture=carnie religion=carnivalist } 
-3000012 = { name="Forepaugh" culture=carnie religion=carnivalist } 
-3000013 = { name="Foolharde" culture=carnie religion=carnivalist } 
-3000014 = { name="Frekshoe" culture=carnie religion=carnivalist } 
-3000015 = { name="Gatti" culture=carnie religion=carnivalist } 
-3000016 = { name="Hagenbeck" culture=carnie religion=carnivalist } 
-3000017 = { name="Juggler" culture=carnie religion=carnivalist } 
-3000018 = { name="Jumbo" culture=carnie religion=carnivalist } 
-3000019 = { name="Leon" culture=carnie religion=carnivalist } 
-3000020 = { name="Menagerie" culture=carnie religion=carnivalist } 
-3000021 = { name="Marceau" culture=carnie religion=carnivalist } 
-3000022 = { name="Midnight" culture=carnie religion=carnivalist } 
-3000023 = { name="McDonald" culture=carnie religion=carnivalist } 
-3000024 = { name="Pepin" culture=carnie religion=carnivalist } 
-3000025 = { name="Picel" culture=carnie religion=carnivalist } 
-3000026 = { name="Ringling" culture=carnie religion=carnivalist } 
-3000027 = { name="Roustabut" culture=carnie religion=carnivalist } 
-3000028 = { name="Sarasota" culture=carnie religion=carnivalist } 
-3000029 = { name="Sideshoe" culture=carnie religion=carnivalist } 
-3000030 = { name="Smirkus" culture=carnie religion=carnivalist } 
-3000031 = { name="Sunrise" culture=carnie religion=carnivalist } 
-3000032 = { name="Trapeez" culture=carnie religion=carnivalist } 
-3000033 = { name="Tigre" culture=carnie religion=carnivalist } 
-3000034 = { name="Two Bit" culture=carnie religion=carnivalist } 
-3000035 = { name="Wallace" culture=carnie religion=carnivalist } 
+3000001 = { name="Phoenix" culture=carnie } 
+3000002 = { name="Arcobate" culture=carnie } 
+3000003 = { name="Amok" culture=carnie } 
+3000004 = { name="Barnes" culture=carnie } 
+3000005 = { name="Barker" culture=carnie } 
+3000006 = { name="Batty" culture=carnie } 
+3000007 = { name="Bindlestiff" culture=carnie } 
+3000008 = { name="Breschard" culture=carnie } 
+3000009 = { name="Chipperfield" culture=carnie } 
+3000010 = { name="Elephante" culture=carnie } 
+3000011 = { name="Fora" culture=carnie } 
+3000012 = { name="Forepaugh" culture=carnie } 
+3000013 = { name="Foolharde" culture=carnie } 
+3000014 = { name="Frekshoe" culture=carnie } 
+3000015 = { name="Gatti" culture=carnie } 
+3000016 = { name="Hagenbeck" culture=carni  } 
+3000017 = { name="Juggler" culture=carnie } 
+3000018 = { name="Jumbo" culture=carnie } 
+3000019 = { name="Leon" culture=carnie } 
+3000020 = { name="Menagerie" culture=carnie } 
+3000021 = { name="Marceau" culture=carnie } 
+3000022 = { name="Midnight" culture=carnie } 
+3000023 = { name="McDonald" culture=carnie } 
+3000024 = { name="Pepin" culture=carnie } 
+3000025 = { name="Picel" culture=carnie } 
+3000026 = { name="Ringling" culture=carnie } 
+3000027 = { name="Roustabut" culture=carnie } 
+3000028 = { name="Sarasota" culture=carnie } 
+3000029 = { name="Sideshoe" culture=carnie } 
+3000030 = { name="Smirkus" culture=carnie } 
+3000031 = { name="Sunrise" culture=carnie } 
+3000032 = { name="Trapeez" culture=carnie } 
+3000033 = { name="Tigre" culture=carnie } 
+3000034 = { name="Two Bit" culture=carnie } 
+3000035 = { name="Wallace" culture=carnie } 
+
+3000036 = { name="Bronco" culture=barrelman } 
+3000037 = { name="Buckaroo" culture=barrelman } 
+3000038 = { name="Caldwell" culture=barrelman } 
+3000039 = { name="Cheyenne" culture=barrelman } 
+3000040 = { name="Ellensburg" culture=barrelman } 
+3000041 = { name="Hickok" culture=barrelman } 
+3000042 = { name="Stallion" culture=barrelman } 
+3000043 = { name="Stempede" culture=barrelman } 
+3000044 = { name="Mosley" culture=barrelman }
+3000045 = { name="Pendleton" culture=barrelman } 
+3000046 = { name="Rasmussen" culture=barrelman } 
+3000047 = { name="Vaquero" culture=barrelman } 
+
+3000048 = { name="Harleyquinz" culture=harlequin } 
+3000049 = { name="Harlenkangz" culture=harlequin } 
+3000050 = { name="Saucey" culture=harlequin } 
+3000051 = { name="Bubbleton" culture=harlequin } 
+3000052 = { name="Chika" culture=harlequin } 
+3000053 = { name="Ratatata" culture=harlequin } 
+3000054 = { name="Dipsy" culture=harlequin } 
+3000055 = { name="Pines" culture=harlequin } 
+3000056 = { name="Quinzel" culture=harlequin }
+3000057 = { name="Quinzy" culture=harlequin } 
