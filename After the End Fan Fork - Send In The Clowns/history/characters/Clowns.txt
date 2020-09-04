@@ -17,4 +17,28 @@
 	trait=sadman
 	give_nickname=nick_the_jokester
 	2641.10.28={birth=yes}
+	2646.10.28={add_spouse=2888889}
+	2646.10.28={add_lover=2888889}
+}
+
+2888889={#Harley Quinn
+	name="Harley"
+	dynasty=3000057 #Quinzy
+	culture=harlequin
+	religion=carnivalist
+	female=yes
+	martial=8
+	diplomacy=4
+	stewardship=5
+	intrigue=7
+	learning=3
+	trait=lunatic
+	trait=tough_soldier
+	trait=physician
+	trait=trusting
+	trait=lustful
+	trait=fair
+	trait=funnyman
+	trait_arbitrary
+	2645.7.2={birth=yes}
 }
